@@ -16,7 +16,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter land santoni,$(TARGET_DEVICE)),)
+ifneq ($(filter land santoni riva,$(TARGET_DEVICE)),)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := vendor.qti.hardware.iop@1.0
