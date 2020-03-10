@@ -2291,8 +2291,8 @@ PRODUCT_PACKAGES += \
     uceShimService \
     CneApp \
     IWlanService \
-    PowerOffAlarm \
     TimeService \
+    PowerOffAlarm \
     dpmserviceapp \
     ims \
     qcrilmsgtunnel
